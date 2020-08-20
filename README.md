@@ -20,7 +20,6 @@ Boost Software License
 ### Demo
 `cargo run --example example sample-data/web/en/`
 
-
 ### TODO
 * Add parallelization support
 * Test different sampling wheel techniques
