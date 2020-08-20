@@ -17,6 +17,10 @@ Boost Software License
 * InvertedIndex implementation
 * Latent Dirichlet Allocation implementation 
 
+### Demo
+`cargo run --example example sample-data/web/en/`
+
+
 ### TODO
 * Add parallelization support
 * Test different sampling wheel techniques
